@@ -1,3 +1,9 @@
+# Edited by c4nh0t0
+# Add these lines into your /etc/pwnagotchi/config.toml file or via WebCFG Web GUI.
+# main.plugins.more_uptime.enables = true
+# main.plugins.more_uptime.override = true
+# main.plugins.more_uptime.position = "184,11"
+
 import logging
 import os
 import time
